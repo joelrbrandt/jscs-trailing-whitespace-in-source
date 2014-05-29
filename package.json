@@ -1,0 +1,26 @@
+{
+  "name": "jscs-trailing-whitespace-in-source",
+  "version": "0.0.1",
+  "description": "JSCS plugin to disallow trailing whitespace in source (but not in comments)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joelrbrandt/jscs-trailing-whitespace-in-source.git"
+  },
+  "keywords": [
+    "jscs",
+    "whitespace"
+  ],
+  "contributors": [
+    "Ian Wehrman <iwehrman@gmail.com>",
+    "Joel Brandt <joelrbrandt@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelrbrandt/jscs-trailing-whitespace-in-source/issues"
+  },
+  "homepage": "https://github.com/joelrbrandt/jscs-trailing-whitespace-in-source"
+}
